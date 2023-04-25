@@ -173,7 +173,7 @@ const Header: React.FC = () => {
               <SignUp>회원가입</SignUp>
             </Menu>
           </MenuList>
-        </MenuListWrapper>
+        </MenuListWrapper> 
       </Navigation>
     </Base>
   );
